@@ -121,3 +121,5 @@ export const GlobalStyle = createGlobalStyle`
     margin-top: 15px;
   }
 `
+
+export default GlobalStyle;
